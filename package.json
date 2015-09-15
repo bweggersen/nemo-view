@@ -1,6 +1,6 @@
 {
   "name": "nemo-view",
-  "version": "1.3.0-alpha.2",
+  "version": "1.3.0-alpha.3",
   "description": "View Interface for nemo views (requires nemo-drivex and nemo-locatex plugins)",
   "main": "index.js",
   "registerAs": "view",
@@ -27,7 +27,7 @@
     "nemo": "^1.1.0-alpha.1"
   },
   "peerDependencies": {
-    "nemo": ">= 1.0.0"
+    "nemo": ">= 1.1.0-alpha.1"
   },
   "keywords": [
     "Nemo",
